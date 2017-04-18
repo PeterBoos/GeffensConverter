@@ -1,0 +1,6 @@
+c:\users\peter.boos\documents\visual studio 2015\Projects\GeffensConverter\GeffensConverter\bin\Debug\GeffensConverter.exe.config
+c:\users\peter.boos\documents\visual studio 2015\Projects\GeffensConverter\GeffensConverter\bin\Debug\GeffensConverter.exe
+c:\users\peter.boos\documents\visual studio 2015\Projects\GeffensConverter\GeffensConverter\bin\Debug\GeffensConverter.pdb
+c:\users\peter.boos\documents\visual studio 2015\Projects\GeffensConverter\GeffensConverter\obj\Debug\GeffensConverter.csprojResolveAssemblyReference.cache
+c:\users\peter.boos\documents\visual studio 2015\Projects\GeffensConverter\GeffensConverter\obj\Debug\GeffensConverter.exe
+c:\users\peter.boos\documents\visual studio 2015\Projects\GeffensConverter\GeffensConverter\obj\Debug\GeffensConverter.pdb
