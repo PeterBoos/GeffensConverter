@@ -13,7 +13,7 @@ namespace GeffensConverter
     ///   Date:           2017-02-08
     ///   Notes:          -
     ///   ==============================================================
-    ///   Change history:
+    ///   Change history: No changes 
     /// 
     ///-----------------------------------------------------------------
     public static class ConverterScript
